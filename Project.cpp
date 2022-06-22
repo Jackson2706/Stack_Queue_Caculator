@@ -1,11 +1,11 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include<ctype.h>
-#include<iostream>
+#include <ctype.h>
+#include <iostream>
 #include <math.h>
 #include <cstring>
-#include<string.h>
+#include <string.h>
 
 using namespace std;
 
